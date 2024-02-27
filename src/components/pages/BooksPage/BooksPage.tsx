@@ -25,7 +25,7 @@ const CaseStudiesPage: React.FC = () => {
     >
       <Page>
         <section className={s.Header}> 
-          <h1>Books</h1>
+          <h1>Vercel Test</h1>
           <p>The next collection of books offers a guided learning experience into Apache Pulsar and related subjects.</p>
         </section>
 
